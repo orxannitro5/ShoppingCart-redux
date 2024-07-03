@@ -1,0 +1,7 @@
+.home{
+    background-color: rgb(184, 182, 182);
+}
+.home > div{
+    display: flex;
+    justify-content: center;
+}
